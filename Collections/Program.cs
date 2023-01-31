@@ -6,6 +6,13 @@
         {
             Console.WriteLine("Welcome to collections");
 
+            Sample.doListDemo();
+            Sample.doStackDemo();
+            Sample.doDictionaryDemo();
+            Sample.doQueueDemo();
+            Sample.doSetDemo();
+            Console.ReadKey();
+
         }
     }
 }
